@@ -1,0 +1,10 @@
+.body {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #6a1b9a, #000000); /* Lila zu Schwarz */
+  display: flex;
+  justify-content: flex-start;  /* Den Inhalt nach oben verschieben */
+  align-items: flex-start;  /* Sicherstellen, dass der Inhalt oben beginnt */
+  margin: 0px;
+}
+
+  
